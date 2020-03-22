@@ -9,10 +9,10 @@ The world has slow down and is preparing to halt, due to COVID-19.
 Lockdown since 14-days. Factories and most business still running. Numbers high and rising (53,578 total / 4,825 deaths): 
 
 Daily cases: 
-![Daily cases](/images/daily-cases.png)
+![Daily cases](/assets/images/daily-cases.png)
 
 Situation in Sicily: 
-![Sunday lunch](/images/sunday-lunch.png)
+![Sunday lunch](/assets/images/sunday-lunch.png)
 ( it's Sunday! ) 
 
 
