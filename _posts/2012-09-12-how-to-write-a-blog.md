@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-author: "Ignazio"
+author: <a href="https://twitter.com/ignaleo">@ignazio</a>
 ---
 
 # Welcome
