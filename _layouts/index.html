@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{{ content }}
+
 {% for post in site.posts %}
 <small>{{ post.date | date: "%-d %B %Y" }}</small>
 <a href="{{ post.url }}"><h1>{{ post.title }}</h1></a> 
