@@ -18,6 +18,7 @@ Situation in Sicily:
 
 
 Good structured data: 
+* [John Hopkins](https://github.com/CSSEGISandData/COVID-19)
 * [Worldometers](https://www.worldometers.info/coronavirus/): overall, up-to-date, figure;
 * [Our world in data](https://ourworldindata.org/covid-testing): testing distributition worldwide;
 
