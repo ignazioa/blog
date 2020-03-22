@@ -39,21 +39,16 @@
         {% endif %}
       </header>
       <section>
-
       {{ content }}
-
       </section>
       <section>
-        Posts: 
-        <ul>
-            {% for post in site.posts %}
-            <a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%-d %B %Y" }}</small>
-            {{ post.content }}
-              <!-- <li>
-                <a href="{{ post.url }}">{{ post.title }}</a>
-              </li> --> 
-            {% endfor %}
-        </ul>
+        {% for post in site.posts %}
+        <a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%-d %B %Y" }}</small>
+        {{ post.content }}
+            <!-- <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            </li> --> 
+        {% endfor %}
       </section>
       <footer>
         {% if site.github.is_project_page %}
