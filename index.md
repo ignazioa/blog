@@ -1,5 +1,23 @@
 ## COVID-19, part one (March 22nd, 2020)
-So the world is stopping.
+The world has slow down and is preparing to halt, due to COVID-19.
+
+
+Situation in Italy: 
+ 
+![Sunday lunch](./images/sunday-lunch.png)
+
+
+Good structured data: 
+* https://www.worldometers.info/coronavirus/
+* https://ourworldindata.org/covid-testing (how much po)
+
+Most engineeres are now working from home and having more time in their hands and quite a bit of them decided to help.
+
+Good projects I found:    
+* https://helpwithcovid.com/
+* https://twitter.com/kvlly/status/1241036548243685377
+
+
 
 
 ## Welcome to GitHub Pages
