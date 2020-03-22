@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "COVID-19, part one"
-author: <a href="https://twitter.com/ignaleo">@ignazio</a>
+author: "@ignazio"
 ---
 The world has slow down and is preparing to halt, due to COVID-19. 
 
